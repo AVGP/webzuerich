@@ -58,9 +58,8 @@ a:hover, a:focus, a:active, a:visited {
 .side-menu {
 	position: fixed;
 	right: 30px;
-	bottom: 10%;
-    transform: translateY(-73px);
-    z-index: 99;
+	bottom: 20px;
+  z-index: 99;
 }
 .side-menu ul li {
     text-align: right;
